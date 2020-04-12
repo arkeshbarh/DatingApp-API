@@ -10,7 +10,6 @@ E:\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\DatingApp.API.pdb
 E:\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.csprojAssemblyReference.cache
 E:\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\staticwebassets\DatingApp.API.StaticWebAssets.Manifest.cache
 E:\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\staticwebassets\DatingApp.API.StaticWebAssets.xml
-E:\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.MvcApplicationPartsAssemblyInfo.cache
 E:\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.AssemblyInfoInputs.cache
 E:\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.AssemblyInfo.cs
 E:\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.RazorTargetAssemblyInfo.cache
@@ -45,3 +44,11 @@ E:\DatingApp\datingapp.api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatc
 E:\DatingApp\datingapp.api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 E:\DatingApp\datingapp.api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 E:\DatingApp\datingapp.api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.MvcApplicationPartsAssemblyInfo.cache
